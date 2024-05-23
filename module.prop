@@ -1,6 +1,6 @@
-id=pixel6-mod
-name=Patch for Google Pixel
-version=v05
-versionCode=5
-author=AndroPlus
-description=Patch for Pixel series
+id=BetterPowerMenu
+name=BetterPowerMenu
+version=v1
+versionCode=1
+author=AndroPlus, nicked
+description=電源メニューの選択項目を変更するモジュールです。
