@@ -1,3 +1,4 @@
+[English](./README-EN.md)
 ## Android向けパッチ
 Android 12+にて
 
